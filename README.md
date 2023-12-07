@@ -1,9 +1,10 @@
 ### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Topu Rahman</h1>
 <h3 align="center">Cisco Network Engineer & Tech Enthusiast.</h3>
 
-<img align="right" alt="networking" width="400" src="https://images.app.goo.gl/X5cDC2aUdN9XMqys9">
+<img align="right" alt="networking" width="400" src="![Uploading image.png…]()
+
+">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtimu139&label=Profile%20views&color=0e75b6&style=flat" alt="mrtimu139" /> </p>
