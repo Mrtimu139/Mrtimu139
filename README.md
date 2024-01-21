@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Topu Rahman</h1>
-<h3 align="center">Cisco Network Engineer & Tech Enthusiast.</h3>
+<h1 align="center">Hi, I'm Topu Rahman</h1>
+<h3 align="center">Frontend Developer</h3>
 
 
 
